@@ -8,6 +8,7 @@ export default function Home() {
   <Link href="/privacy-policy" className="bg-black cursor-pointer text-white py-3 px-2">
 Privacy Policy
 </Link>
+  
 <Link href="/terms-of-service" className="bg-black cursor-pointer text-white py-3 px-2">
 Terms Of Service
 </Link>
